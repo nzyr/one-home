@@ -1,0 +1,3 @@
+<?pph
+
+echo 'Home/index';
